@@ -92,6 +92,7 @@
                 <option value="Los Santos">Los Santos</option>
                 <option value="Veraguas">Veraguas</option>
                 <option value="Bocas del toro">Bocas del toro</option>
+                <option value= "COMARCAS ">comarcas</option>
               </select>
             </div>
             
